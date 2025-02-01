@@ -1,2 +1,2 @@
-# mern
-mern best practices
+# MERN
+MERN best practices
